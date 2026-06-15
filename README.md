@@ -4,7 +4,7 @@
 
 **SQL Server tabanlı ERP ve CRM sistemleriniz için sağlık ve yapay zeka hazırlık tarayıcısı**
 
-[Tarayıcıyı indir (Windows)](https://github.com/dmcteknoloji/sentineldb360-lite/releases/latest/download/SentinelDB360.Lite.exe) · [sentineldb360.com/lite](https://sentineldb360.com/lite/) · bir [DMC Bilgi Teknolojileri](https://dmcteknoloji.com) ürünü
+[Tarayıcıyı indir · Download (Windows)](https://sentineldb360.com/lite/) · bir [DMC Bilgi Teknolojileri](https://dmcteknoloji.com) ürünü
 
 </div>
 
@@ -18,7 +18,7 @@ SentinelDB360 ailesinin **giriş ürünüdür**: tam platformu almadan önce sis
 
 ### Nasıl kullanılır
 
-1. **İndirin** — [SentinelDB360.Lite.exe](https://github.com/dmcteknoloji/sentineldb360-lite/releases/latest/download/SentinelDB360.Lite.exe) (tek dosya, kurulum gerektirmez).
+1. **İndirin** — [sentineldb360.com/lite üzerinden](https://sentineldb360.com/lite/) (tek dosya, kurulum gerektirmez).
 2. **Tarayın** — Uygulamayı çalıştırın, SQL Server bağlantı bilgilerinizi girin. Salt okunur tarama şifreli bir `.bshscan` dosyası üretir.
 3. **Yükleyin** — [Yükleme sayfasından](https://sentineldb360.com/lite/) kurumsal e-postanızla doğrulanıp dosyayı yükleyin. Raporunuz e-posta ile gelir ve sayfadan da indirilir.
 
@@ -46,7 +46,7 @@ SentinelDB360 ailesinin **giriş ürünüdür**: tam platformu almadan önce sis
 
 SentinelDB360 Lite scans your SQL Server database **read-only** with a single Windows app and produces a board-ready health report plus an AI-readiness assessment. It is the **entry product** of the SentinelDB360 family.
 
-1. **Download** [SentinelDB360.Lite.exe](https://github.com/dmcteknoloji/sentineldb360-lite/releases/latest/download/SentinelDB360.Lite.exe) (single file, no install).
+1. **Download** from [sentineldb360.com/lite](https://sentineldb360.com/lite/) (single file, no install).
 2. **Scan** — run the app, enter your SQL Server connection details. The read-only scan produces an encrypted `.bshscan` file.
 3. **Upload** — verify with your corporate email and upload the file at the [upload page](https://sentineldb360.com/lite/). Your report is emailed and downloadable.
 
