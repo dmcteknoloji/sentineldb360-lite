@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Güvenlik açığı bildirimi / Security vulnerability
+    url: mailto:iletisim@dmcteknoloji.com
+    about: Güvenlik açıklarını herkese açık issue yerine e-postayla bildirin / Report vulnerabilities by email, not in a public issue
+  - name: Ticari destek / Commercial support
+    url: https://sentineldb360.com/lite/
+    about: Lisans, teklif ve kurulum desteği / Licensing, quotes and onboarding

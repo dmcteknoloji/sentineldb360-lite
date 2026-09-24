@@ -1,0 +1,36 @@
+name: Hata bildirimi / Bug report
+description: Tarayıcıda karşılaştığınız bir sorunu bildirin / Report a problem with the scanner
+labels: [bug]
+body:
+  - type: input
+    id: surum
+    attributes:
+      label: Sürüm / Version
+      description: Uygulama penceresinin alt satırında yazar / Shown in the footer of the app window
+      placeholder: "v1.0.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: isletim
+    attributes:
+      label: İşletim sistemi / OS
+      options: ["Windows 10", "Windows 11", "Windows Server 2016", "Windows Server 2019", "Windows Server 2022", "Windows Server 2025", "Diğer / Other"]
+    validations:
+      required: true
+  - type: input
+    id: sql
+    attributes:
+      label: SQL Server sürümü / SQL Server version
+      placeholder: "SQL Server 2019 CU28"
+  - type: textarea
+    id: ne-oldu
+    attributes:
+      label: Ne oldu? / What happened?
+      description: Adımları ve gördüğünüz hata mesajını yazın / Steps and the error message you saw
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ `.bshscan` dosyasını, bağlantı dizesini ya da parolayı buraya **eklemeyin**. Bu depo herkese açıktır.
+        Do **not** attach `.bshscan` files, connection strings or passwords. This repository is public.
